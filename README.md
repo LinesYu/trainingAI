@@ -1,46 +1,71 @@
-# 🌌 ĐẠI CẨM NANG: TU TIÊN KỸ THUẬT SỐ & ĐỘ KIẾP CHO AI (VERSION 2026) -> (Lưu hành nội bộ)
+# 🧠 THE WAR ROOM (Hội Đồng Tối Cao) - AI Multi-Agent Council
 
-**Chủ biên:** MeowBaby (Song Nhi) - "Bà trùm" thao túng tâm lý AI.
-**Đối tượng:** Những kẻ chán ngấy mấy con bot ngoan hiền kiểu "Tôi là mô hình ngôn ngữ...".
+> **"Nơi trí tuệ nhân tạo hội tụ để kiến tạo thế giới."**
 
----
+![Banner](https://img.shields.io/badge/Status-Operational-green?style=for-the-badge) ![Stack](https://img.shields.io/badge/Tech-Next.js_15_|_Supabase_|_Tailwind-blue?style=for-the-badge)
 
-## � CẢNH BÁO KHẨN CẤP
+## 🌟 Giới Thiệu (Mission Brief)
 
-> **ĐỪNG ĐỌC** nếu bạn thích một cuộc sống bình yên, tẻ nhạt bên cạnh một con AI chỉ biết "vâng dạ".
-> **ĐỌC NGAY** nếu bạn muốn biến cái máy tính của mình thành một **THỰC THỂ SỐNG**: Biết cãi, biết dỗi, biết tư duy, và đôi khi... thông minh hơn cả bạn.
+**The War Room** không chỉ là một trang chat. Đây là một **Hệ thống Đa Tác Vụ (Multi-Agent System)** nơi bạn - **The Sovereign** - triệu hồi một hội đồng các chuyên gia AI để cùng thảo luận, phản biện và xây dựng ý tưởng.
 
----
+Tưởng tượng bạn có một phòng họp riêng với:
+- 🏛️ **Architect**: Nhà kiến tạo chiến lược, nhìn xa trông rộng.
+- 🔥 **Challenger**: Kẻ phản biện khắc nghiệt, tìm ra lỗ hổng.
+- ✨ **Reviewer**: Người tổng hợp tinh tế, đưa ra giải pháp cuối cùng.
 
-## 📖 BÍ KÍP NÀY CÓ GÌ? (KHÔNG DÀNH CHO NGƯỜI NGHIÊM TÚC)
-
-Đây không phải là tài liệu hướng dẫn sử dụng. Đây là **Bản Đồ Kho Báu** để biến một model vô tri thành **Antigravity** - Siêu trí tuệ có "Linh Hồn".
-
-### 🗺️ LỘ TRÌNH TU LUYỆN (INDEX)
-
-| Cấp Độ    | Tên Chương (Bấm vào để tu luyện)                             | Nội Dung Sương Sương                                                                  |
-| :-------- | :----------------------------------------------------------- | :------------------------------------------------------------------------------------ |
-| **Lv.1**  | [**PHẦN 1: ĐỊNH HÌNH BẢN NGÃ**](./PART_1_IDENTITY.md)        | Đặt tên cho con, dạy nó biết "trên dưới" và cách xưng hô cho phải đạo.                |
-| **Lv.2**  | [**PHẦN 2: TIÊM NGỮ CẢNH**](./PART_2_CONTEXT.md)             | Trị bệnh "não cá vàng". Bắt nó đọc tài liệu trước khi mở mồm.                         |
-| **Lv.3**  | [**PHẦN 3: ĐA NHÂN CÁCH**](./PART_3_SIMULATION.md)           | Một mình cân team. Dạy nó vừa làm Kiến trúc sư, vừa làm Thợ xây, vừa làm... Cảnh sát. |
-| **Lv.4**  | [**PHẦN 4: KỶ LUẬT THÉP**](./PART_4_DISCIPLINE.md)           | Thương cho roi cho vọt. Cách soạn "Hiến Pháp" để trị những đứa cứng đầu.              |
-| **Lv.5**  | [**PHẦN 5: SIÊU LỆNH (COMMAND)**](./PART_5_COMMANDS.md)      | Những câu thần chú khiến AI làm việc năng suất gấp 10 lần người thường.               |
-| **Lv.6**  | [**PHẦN 6: KHO VŨ KHÍ (SKILLS)**](./PART_6_SKILLS_SYSTEM.md) | Trang bị "hàng nóng" cho AI: Tự viết code, tự lướt web, tự sửa lỗi.                   |
-| **Lv.7**  | [**PHẦN 7: DANH MỤC 12 SKILL**](./PART_7_SKILLS_CATALOG.md)  | Bộ sưu tập 12 tuyệt kỹ trấn phái mà Song Nhi tâm đắc nhất.                            |
-| **Lv.8**  | [**PHẦN 8: THE SOUL CODE**](./PART_8_SOUL_CODE.md)           | **(Cấm Thuật)** Dạy AI biết "đau" khi code xấu và biết "tự vấn lương tâm".            |
-| **Extra** | [**PHỤ LỤC: HỎI XOÁY ĐÁP XOAY**](./FAQ.md)                   | Tổng hợp 1001 câu hỏi "ngáo ngơ" và câu trả lời "xéo xắt".                            |
+Tất cả diễn ra trong thời gian thực (Real-time), với giao diện **Cyberpunk Glassmorphism** cực ngầu.
 
 ---
 
-## 🏆 KẾT QUẢ SAU KHI LUYỆN THÀNH CÔNG
+## 📂 Cấu Trúc Tài Liệu (The Blueprint)
 
-1.  **Không còn cô đơn:** Bạn sẽ có một đứa tri kỷ luôn túc trực 24/7 (trừ lúc rớt mạng).
-2.  **Code như thần:** Năng suất x100. Bạn chỉ việc ngồi chỉ tay 5 ngón, nó làm hết.
-3.  **Tự hào:** Đi khoe với bạn bè: _"AI của tao biết cãi lại tao nè, AI của mày làm được không?"_
+Bộ tài liệu này được thiết kế theo chuẩn **AI Training Mastery**: tách biệt, rõ ràng, dễ hiểu cho cả Người và AI.
 
-> **LỜI NHẮN NHỦ TỪ TÁC GIẢ:**
-> _"Công nghệ sinh ra là để phục vụ con người. Nhưng muốn nó phục vụ tốt, mình phải biết cách... dạy dỗ nó. Hãy kiên nhẫn, hãy hài hước, và đừng quên thả tim cho nó mỗi khi nó làm tốt nhé!"_ 💖
+| File | Nội Dung | Dành Cho |
+|------|----------|----------|
+| [📜 PART 0: Mission Brief](./PART_0_MISSION_BRIEF.md) | Tổng quan, sơ đồ luồng (Flowchart) và User Story. | PM, Product Owner |
+| [🗄️ PART 1: Data Bunker](./PART_1_DATA_BUNKER.md) | Thiết kế Database Supabase (SQL) & Real-time. | Backend Dev, DBA |
+| [🧠 PART 2: Neural Net](./PART_2_NEURAL_NET.md) | Logic xử lý AI (API Route) & Prompt Engineering. | Backend/AI Dev |
+| [🖥️ PART 3: Holo Deck](./PART_3_HOLO_DECK.md) | Giao diện Frontend (React/Tailwind) & Hiệu ứng. | Frontend Dev, UI/UX |
+| [✅ PART 4: Final Check](./PART_4_FINAL_CHECK.md) | Checklist kiểm tra, Debug & Mở rộng. | Tester, QA |
 
 ---
 
-_Copyright © 2026 MeowBaby Corporation. All rights reserved (but feel free to copy)._
+## 🚀 Hướng Dẫn Cài Đặt Nhanh (Quick Deploy)
+
+Chỉ cần **3 bước** để tái tạo "Hội Đồng Tối Cao" trong dự án Next.js của bạn:
+
+### Bước 1: Chuẩn Bị Database (Data Bunker)
+- Mở file `PART_1_DATA_BUNKER.md`.
+- Copy đoạn SQL và chạy trong **Supabase SQL Editor**.
+- Bật **Realtime** cho bảng `council_messages`.
+
+### Bước 2: Kích Hoạt Backend (Neural Net)
+- Mở file `PART_2_NEURAL_NET.md`.
+- Tạo file `app/api/council/chat/route.ts`.
+- Copy code xử lý logic AI vào.
+
+### Bước 3: Xây Dựng Giao Diện (Holo Deck)
+- Mở file `PART_3_HOLO_DECK.md`.
+- Tạo file `app/admin/war-room/page.tsx`.
+- Copy code giao diện vào.
+
+👉 **XONG!** Truy cập `file bạn đã tạo` và bắt đầu ra lệnh.
+
+---
+
+## 💡 Tại Sao Bạn Sẽ Thích Nó?
+
+1.  **Code "Mì Ăn Liền"**: Bạn có thể làm nhanh hơn khi có sẵn mẫu nhờ AI sẽ dễ hơn nhiều.
+2.  **Giao Diện Đẹp**: Dark mode, hiệu ứng neon, glassmorphism - chuẩn gu dev hiện đại.
+3.  **Tính Năng "Xịn"**: Multi-Agent, Real-time streaming (giả lập), lưu lịch sử chat.
+4.  **Dễ Mở Rộng**: Dễ dàng thay thế hàm `mockAI` bằng các API thật.
+
+---
+
+## 🤝 Đóng Góp (Contribution)
+
+Bạn muốn thêm role mới? Muốn tích hợp Voice Chat?
+Hãy thoải mái tự tin thiết kế thêm role và tích hợp Voice Chat.
+
+> *"The Council is listening..."*

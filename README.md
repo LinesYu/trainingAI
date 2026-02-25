@@ -2,7 +2,7 @@
 
 > **"Đừng để AI code thay bạn, hãy để AI code cùng bạn như một Senior Engineer thực thụ."**
 > **"Don't let AI code for you, let AI code with you like a true Senior Engineer."**
-
+> Let use npm install, node next,js
 ---
 
 ## 🇻🇳 TIẾNG VIỆT: BIẾN AI THÀNH ĐỒNG ĐỘI "CHẤT CHƠI"
